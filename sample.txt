@@ -1,0 +1,161 @@
+<!-- Projects Section -->
+    <section id="projects" class="py-5 bg-light">
+        <div class="container">
+            <h2 class="text-center mb-5">Projects</h2>
+            <div class="row g-4">
+                <!-- Hardware Projects -->
+                <div class="col-md-6">
+                    <h4>Hardware Projects</h4>
+                    <div class="card mb-3 shadow-sm">
+                        <div class="card-body">
+                            <h5 class="card-title">Intelligent Meteorological Data Station</h5>
+                            <p class="card-text">Real-time temperature, humidity, and pressure monitoring using Raspberry Pi.</p>
+                        </div>
+                    </div>
+                    <div class="card mb-3 shadow-sm">
+                        <div class="card-body">
+                            <h5 class="card-title">Fire Detection System</h5>
+                            <p class="card-text">Integrated smoke sensor with Arduino for environmental safety monitoring.</p>
+                        </div>
+                    </div>
+                    <div class="card mb-3 shadow-sm">
+                        <div class="card-body">
+                            <h5 class="card-title">Home Automation System</h5>
+                            <p class="card-text">Remote control of home appliances using Raspberry Pi Pico W and the Blynk app.</p>
+                        </div>
+                    </div>
+                    <div class="card mb-3 shadow-sm">
+                        <div class="card-body">
+                            <h5 class="card-title">RFID Door Lock System</h5>
+                            <p class="card-text">RFID-based access control using Arduino UNO and servo motor.</p>
+                        </div>
+                    </div>
+                    <div class="card mb-3 shadow-sm">
+                        <div class="card-body">
+                            <h5 class="card-title">Smart Blind Stick</h5>
+                            <p class="card-text">Obstacle detection system with ultrasonic sensors and Arduino.</p>
+                        </div>
+                    </div>
+                </div>
+    
+                <!-- Software Projects -->
+                <div class="col-md-6">
+                    <h4>Software Projects</h4>
+                    <div class="card mb-3 shadow-sm">
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="https://pandi7010.github.io/Engineering-cutoff-calculator/" class="text-dark">Engineering Cutoff Calculator</a></h5>
+                            <p class="card-text">HTML, CSS, JavaScript</p>
+                        </div>
+                    </div>
+                    <div class="card mb-3 shadow-sm">
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="https://pandi7010.github.io/food-munch/" class="text-dark">Food Order Platform</a></h5>
+                            <p class="card-text">HTML, CSS, Bootstrap</p>
+                        </div>
+                    </div>
+                    <div class="card mb-3 shadow-sm">
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="https://pandiselvam-encryption-and-decryption.netlify.app/" class="text-dark">Encryption and Decryption Software</a></h5>
+                            <p class="card-text">HTML, CSS, JavaScript</p>
+                        </div>
+                    </div>
+                    <div class="card mb-3 shadow-sm">
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="https://pandi7010.github.io/Letter-Builder/" class="text-dark">Automatic Letter Builder</a></h5>
+                            <p class="card-text">HTML, CSS, JavaScript</p>
+                        </div>
+                    </div>
+                    <div class="card mb-3 shadow-sm">
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="https://pandi7010.github.io/discount-calculator/" class="text-dark">Discount Calculator</a></h5>
+                            <p class="card-text">HTML, CSS, JavaScript</p>
+                        </div>
+                    </div>
+                    <div class="card mb-3 shadow-sm">
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="https://tamil-story-book.netlify.app/" class="text-dark">Story Book Application</a></h5>
+                            <p class="card-text">HTML, CSS, JavaScript</p>
+                        </div>
+                    </div>
+                    <div class="card mb-3 shadow-sm">
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="https://pandi7010.github.io/Resistor-color-coder/" class="text-dark">Resistor Colour Coder</a></h5>
+                            <p class="card-text">HTML, CSS, JavaScript</p>
+                        </div>
+                    </div>
+                    <div class="card mb-3 shadow-sm">
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="https://pandipca.ccbp.tech/" class="text-dark">Pandiselvam Intelligence</a></h5>
+                            <p class="card-text">HTML, CSS, JavaScript</p>
+                        </div>
+                    </div>
+                    <div class="card mb-3 shadow-sm">
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="https://ecetechevents.ccbp.tech/" class="text-dark">ECE Tech Events</a></h5>
+                            <p class="card-text">HTML, CSS, JavaScript</p>
+                        </div>
+                    </div>
+                    <div class="card mb-3 shadow-sm">
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="https://pandi7010.github.io/pandiselvam-rci-calculator/" class="text-dark">Pandiselvam RCI Calculator</a></h5>
+                            <p class="card-text">HTML, CSS, JavaScript</p>
+                        </div>
+                    </div>
+                    <div class="card mb-3 shadow-sm">
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="https://pandiwebsites.ccbp.tech/" class="text-dark">Pandiselvam Web Solutions</a></h5>
+                            <p class="card-text">HTML, CSS, JavaScript</p>
+                        </div>
+                    </div>
+                </div>
+    
+                <!-- Full Stack & Data Analytics Projects -->
+                <div class="col-md-6">
+                    <h4>Full Stack & Data Analytics Projects</h4>
+                    <div class="card mb-3 shadow-sm">
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="https://pandiaichatbot.ccbp.tech/" class="text-dark">Generative AI Application</a></h5>
+                            <p class="card-text">HTML, CSS, JavaScript, Python</p>
+                        </div>
+                    </div>
+                    <div class="card mb-3 shadow-sm">
+                        <div class="card-body">
+                            <h5 class="card-title">Real Mart Sales Dashboard</h5>
+                            <p class="card-text">Data Analytics using Power BI</p>
+                        </div>
+                    </div>
+                </div>
+    
+                <!-- Recent Projects -->
+                <div class="col-md-6">
+                    <h4 class="blinking-text">Recent Projects</h4>
+                    <div class="card mb-3 shadow-sm">
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="https://helplineapp.ccbp.tech/" class="text-dark">Emergency Helpline App</a></h5>
+                            <p class="card-text">HTML, CSS, JavaScript</p>
+                        </div>
+                    </div>
+                    <div class="card mb-3 shadow-sm">
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="https://skillupece.ccbp.tech/" class="text-dark">Skill Up</a></h5>
+                            <p class="card-text">HTML, CSS, JavaScript</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    user-select: none;
+    /* Disable text selection */
+    -webkit-user-select: none;
+    /* For Chrome, Safari */
+    -moz-user-select: none;
+    /* For Firefox */
+    -ms-user-select: none;
+    /* For IE/Edge */
+    backdrop-filter: blur(20px);
+    /* Blurs background during screen capture */
+    -webkit-backdrop-filter: blur(20px);
+    /* For Safari */
